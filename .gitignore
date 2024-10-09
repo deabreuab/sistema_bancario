@@ -1,4 +1,2 @@
 .env
 build/*
-package.json
-tsconfig.json
